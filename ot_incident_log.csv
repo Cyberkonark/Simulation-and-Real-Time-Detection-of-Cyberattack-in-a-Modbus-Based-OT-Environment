@@ -1,0 +1,9 @@
+Timestamp,Source,Severity,Description,Status
+2026-11-22 11:29:40,NETWORK,HIGH,Write request from unauthorized IP: 127.0.0.1 | Operation: WRITE_MULTIPLE_REGISTERS,RESOLVED
+2026-11-22 12:54:00,PROCESS,HIGH,PROCESS STATUS MISMATCH,OPEN
+2026-11-22 13:35:04,NETWORK,HIGH,Unexpected source IP communicating with OT network,OPEN
+2026-11-22 13:38:05,NETWORK,HIGH,Write request from unauthorized IP: 192.168.214.128 | Operation: WRITE_SINGLE_REGISTER,OPEN
+2026-11-22 14:19:19,NETWORK,CRITICAL,HR10 modified from 100 to 500,OPEN
+2026-11-22 14:32:18,NETWORK,CRITICAL,"HR10 injection attempt: original=UNKNOWN, injected=500, action=BLOCKED",OPEN
+2026-11-22 14:34:14,NETWORK,CRITICAL,"HR10 injection attempt: original=NOT_FORWARDED, injected=500, action=BLOCKED",OPEN
+2026-11-22 18:33:02,NETWORK,CRITICAL,"HR10 injection attempt: original=NOT_FORWARDED, injected=500, action=BLOCKED",OPEN
